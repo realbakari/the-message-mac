@@ -5,6 +5,20 @@
     <link>https://bakarimustafa.com/the-message/mac/</link>
     <language>en</language>
     <item>
+      <title>The Message 1.2.1</title>
+      <pubDate>Sat, 07 Nov 2026 11:13:55 GMT</pubDate>
+      <sparkle:version>4</sparkle:version>
+      <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3>
+<p><strong>Easier to install</strong></p>
+<ul>
+<li>The download is now a disk image: open it and drag The Message onto the Applications folder beside it.</li>
+<li>If The Message is opened from Downloads or from the disk image, it explains how to move it into Applications, where it can update itself.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/realbakari/the-message-mac/releases/download/v1.2.1/The-Message.zip" sparkle:edSignature="3kwgUVgNzdQc+BCgmmH36PRs/H2R1jqkqQRtK5M8A3vtUWcLOH7O+r19xYEnm5cIrOd+0jSbFCAFzxp5ylCGDw==" length="20681336" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>The Message 1.2.0</title>
       <pubDate>Sat, 07 Nov 2026 10:46:20 GMT</pubDate>
       <sparkle:version>3</sparkle:version>
