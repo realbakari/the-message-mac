@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>The Message for Mac</title>
+    <link>https://bakarimustafa.com/the-message/mac/</link>
+    <language>en</language>
+    <item>
+      <title>The Message 1.2.0</title>
+      <pubDate>Sat, 07 Nov 2026 10:46:20 GMT</pubDate>
+      <sparkle:version>3</sparkle:version>
+      <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3>
+<p><strong>Updates inside the app</strong></p>
+<ul>
+<li>The Message now updates itself. It looks for a new version once a day and shows what's new before installing it; choose The Message → Check for Updates… to look now.</li>
+<li>Settings → Updates can turn the daily check off, or let updates download and install by themselves when you quit.</li>
+<li>Updates are signed, so only real releases of The Message install.</li>
+</ul>
+<p>This is the last version you need to download from the site: from here on, updates arrive in the app.</p>]]></description>
+      <enclosure url="https://github.com/realbakari/the-message-mac/releases/download/v1.2.0/The-Message.zip" sparkle:edSignature="DTRyJCYJYSch98UhlIYPuVQl4ck+UIvRVfL9P29mOiNuDpQCeMvlhf/6LkN/1MGGJ16pEaxvMOWn+/M0Eu6UAQ==" length="20675433" type="application/octet-stream"/>
+    </item>
+  </channel>
+</rss>
