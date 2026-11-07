@@ -5,6 +5,30 @@
     <link>https://bakarimustafa.com/the-message/mac/</link>
     <language>en</language>
     <item>
+      <title>The Message 1.3.0</title>
+      <pubDate>Sat, 07 Nov 2026 11:27:03 GMT</pubDate>
+      <sparkle:version>5</sparkle:version>
+      <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3>
+<p><strong>Six new looks for the stream, the projector and your videos</strong></p>
+<ul>
+<li>Vigil: black, big bold titles set to the left over a streak of blue light, with the date and your church along the foot.</li>
+<li>Covenant: deep ultramarine with a scatter of stars, everything centred.</li>
+<li>Psalter: cream paper, Didot and prayer-book red, like a printed page.</li>
+<li>Monument: stone and signal orange, with one giant word or number behind the title: the countdown, the verse's chapter and number, or Amen.</li>
+<li>Halftone: deep blue printed over with fine dots and a light serif.</li>
+<li>Clean: words alone over a busy camera shot.</li>
+</ul>
+<p><strong>Make your own</strong></p>
+<ul>
+<li>Studio Look has new choices: a layout (centred, editorial or monument), one pattern for the background (paper grain, stars, halftone, a streak of light or a grid), and how the small words are set.</li>
+<li>New typefaces: Didot, SF Pro Heavy and Avenir Next Condensed.</li>
+<li>A look you saved before keeps working.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/realbakari/the-message-mac/releases/download/v1.3.0/The-Message.zip" sparkle:edSignature="ko6mMjWIIvUCVjAFaHcDnI9/MVobfJ2duCUIYujaJMIacN++CtMGRwfcWdLoyv6sdW/6S+dd94EvGqTXJEfDAw==" length="20743405" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>The Message 1.2.1</title>
       <pubDate>Sat, 07 Nov 2026 11:13:55 GMT</pubDate>
       <sparkle:version>4</sparkle:version>
