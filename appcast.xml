@@ -5,6 +5,43 @@
     <link>https://bakarimustafa.com/the-message/mac/</link>
     <language>en</language>
     <item>
+      <title>The Message 1.4.0</title>
+      <pubDate>Sat, 07 Nov 2026 15:18:48 GMT</pubDate>
+      <sparkle:version>6</sparkle:version>
+      <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3>
+<p><strong>A notebook for your study</strong></p>
+<ul>
+<li>Write notes in the new Notebook (⌥⌘3). They're plain Markdown files in a folder you choose, so they open in Obsidian or any editor too.</li>
+<li>Type [[ to link a sermon, a paragraph, a verse or another note. Links open right where they point.</li>
+<li>Choose Add to Note… on a paragraph, a verse or a highlight to send it to a note with its link.</li>
+<li>"In your notes" shows, beside a sermon or a chapter, every note that links to it.</li>
+</ul>
+<p><strong>The Study Center</strong></p>
+<ul>
+<li>Press ⌥⌘I in the Bible. It follows the verse you're reading, or the verses you select.</li>
+<li>Commentaries: what Matthew Henry, Jamieson-Fausset-Brown, John Gill, Adam Clarke, and Keil and Delitzsch say on the verse. Click one to read it beside the chapter. They're read online the first time, then kept on your Mac.</li>
+<li>Hebrew and Greek: the words behind the KJV, and the verse word by word in the original with each word's parsing.</li>
+<li>Easton's and Smith's Bible dictionaries and Nave's Topical Bible: the articles and topics that cite the verse. Select a name and choose Look Up to read about it.</li>
+<li>Also cross references, the sermons that cite the verse, and when it happened on a timeline from Creation to Paul in Rome.</li>
+</ul>
+<p><strong>A Bible atlas</strong></p>
+<ul>
+<li>The places in a chapter appear on a map of the land as it was, with no modern towns or roads. A "?" marks a site scholars still debate.</li>
+<li>Journeys are drawn in red, the way they went: Paul's journeys, the Exodus, Abram to Haran.</li>
+<li>The layers button outlines regions and can shade the Persian Empire, Alexander's empire, Herod's kingdom, or the Roman Empire.</li>
+<li>The atlas is built into the app and works offline.</li>
+</ul>
+<p><strong>And</strong></p>
+<ul>
+<li>Select words in either reader to search the Bible or the sermons for them.</li>
+<li>Highlight categories can each take a colour of your own and a style: highlight, marker or underline.</li>
+<li>Bibles in thirteen more languages can be downloaded in Settings → Translations: Chinese, Dutch, French, German, Italian, Polish, Portuguese, Russian, Serbian, Spanish, Swahili, Tagalog and Tamil.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/realbakari/the-message-mac/releases/download/v1.4.0/The-Message.zip" sparkle:edSignature="YKEiTFyZLP8y1oNc7vVeycxBtpq8hk2dGtlDH028CFebApRKMBWchI8q5Bh8+8EpgGNLk/tIfHttOtTLIQH1Bw==" length="48222058" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>The Message 1.3.0</title>
       <pubDate>Sat, 07 Nov 2026 11:27:03 GMT</pubDate>
       <sparkle:version>5</sparkle:version>
