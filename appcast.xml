@@ -5,6 +5,35 @@
     <link>https://bakarimustafa.com/the-message/mac/</link>
     <language>en</language>
     <item>
+      <title>The Message 1.5.0</title>
+      <pubDate>Mon, 16 Nov 2026 03:12:13 GMT</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<h3>What's new</h3>
+<p><strong>The Message in your menu bar</strong></p>
+<ul>
+<li>Click the cloud at the top of the screen for a small panel: search the Bible or the sermons, today's reading (or a verse for the day), the sermon playing with play and pause, and quick ways into Ask, Go Live and the Notebook.</li>
+<li>Hide it in Settings → Reading, or from the panel's ⋯ menu.</li>
+</ul>
+<p><strong>Ask from anywhere</strong></p>
+<ul>
+<li>Press ⇧⌥Space in any app to ask a question about the sermons. The answer opens in The Message.</li>
+<li>Turn the shortcut off in Settings → Reading.</li>
+</ul>
+<p><strong>The Notebook reads as a page</strong></p>
+<ul>
+<li>Each note opens as a page with a large title. Type / to add headings, quotes, lists, callouts and dividers.</li>
+<li>Hover a line for a + to add a block, or a handle to move it. Folders show as an outline.</li>
+<li>Notes are still plain Markdown files.</li>
+</ul>
+<p><strong>And</strong></p>
+<ul>
+<li>Refreshed icons across the sidebar, Home, Go Live and more.</li>
+</ul>]]></description>
+      <enclosure url="https://github.com/realbakari/the-message-mac/releases/download/v1.5.0/The-Message.zip" sparkle:edSignature="K7zG+Vlahx0wD38mwwSPOHH6GhjoWo+UYD2wl1P2+TYKMRfxjqqyy2wnhqp6rIzVJtjUQ+0duJjx+HkSO3pDBQ==" length="49012396" type="application/octet-stream"/>
+    </item>
+    <item>
       <title>The Message 1.4.0</title>
       <pubDate>Sat, 07 Nov 2026 15:18:48 GMT</pubDate>
       <sparkle:version>6</sparkle:version>
